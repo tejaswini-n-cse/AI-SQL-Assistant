@@ -1,0 +1,6 @@
+{
+  "name": "AI SQL Assistant",
+  "description": "AI-powered SQL query generator, beginner-friendly explanation engine, intelligent debugger, performance optimizer, and interactive practice sandbox supporting PostgreSQL, MySQL, SQLite, SQL Server, and Oracle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
